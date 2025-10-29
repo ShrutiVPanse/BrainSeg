@@ -1,0 +1,9 @@
+## SLURM PROLOG ###############################################################
+##    Job ID : 13596721
+##  Job Name : job
+##  Nodelist : gpu2001
+##      CPUs : 
+##  Mem/Node : 16384 MB
+## Directory : /oscar/home/spanse/CSCI_1970/BrainSeg
+##   Job Started : Wed Oct 29 11:29:50 AM EDT 2025
+###############################################################################
